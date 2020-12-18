@@ -68,6 +68,6 @@ Create a bubble chart that displays each sample: (Bacteria Culturs per Sample)
 - When a sample is selected, the dashboard should display the data in the panel and all three charts according to their requirements. 
 
 Conclusion
-Live Demo:
-Please click here to review the live demo.
+- Live Demo:
+- Please click here to review the live demo.
 
