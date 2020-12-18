@@ -23,13 +23,11 @@ Summary
 - Challenge Overview
     - In this challenge, we have a partially completed dashboard, but need to finish it. We have a completed panel for demographic information and now need to visualize the bacterial data for each volunteer. Specifically, the volunteers should be able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, our volunteers will be able to identify whether that species is found in quantity in their navel.
 
-- Challenge Objectives
-    - The goals of this challenge are for us to:
-
-- Deliverable 1: Create a Horizontal Bar Chart
-- Deliverable 2: Create a Bubble Chart
-- Deliverable 3: Create a Gauge Chart
-- Deliverable 4: Customize the Dashboard
+- Challenge Objectives: The goals of this challenge are for us to:
+    - Deliverable 1: Create a Horizontal Bar Chart
+    - Deliverable 2: Create a Bubble Chart
+    - Deliverable 3: Create a Gauge Chart
+    - Deliverable 4: Customize the Dashboard
 
 (1) Deliverable 1: Create a Horizontal Bar Chart
 Create a bar chart of the top ten bacterial species in a volunteer’s navel: (Top 10 Bacteria Culturs Found)
