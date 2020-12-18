@@ -70,7 +70,7 @@ function buildBarChart(sample) {
       var data = [bar_trace];
 
       var bar_layout = {
-        title: "Top 10 OTUs",
+        title: "Top 10 Bacteria Culturs Found",
    
       };
       
