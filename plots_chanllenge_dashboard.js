@@ -106,18 +106,18 @@ function buildBarChart(sample) {
           mode: "gauge+number",
           gauge: {
             axis: { range: [null, 10]},
-            bar: { color: "steelblue" },
+            bar: { color: "black" },
             steps: [
-              { range: [0, 1], color: 'rgba(0, 0, 0, 0.5)' },
-              { range: [1, 2], color: 'rgba(0, 0, 0, 0.5)' },
-              { range: [2, 3], color: 'rgba(183,28,28, .5)' },
-              { range: [3, 4], color: 'rgba(183,28,28, .5)' },
-              { range: [4, 5], color: 'rgba(249, 168, 37, .5)' },
-              { range: [5, 6], color: 'rgba(249, 168, 37, .5)' },
-              { range: [6, 7], color: 'rgba(110, 154, 22, .5)' },
-              { range: [7, 8], color: 'rgba(110, 154, 22, .5)' },
-              { range: [8, 9], color: 'rgba(14, 127, 0, .5)' },
-              { range: [9, 10], color: 'rgba(14, 127, 0, .5)' }
+              { range: [0, 1], color: "red" },
+              { range: [1, 2], color: "red" },
+              { range: [2, 3], color: "orange" },
+              { range: [3, 4], color: "orange" },
+              { range: [4, 5], color: "yellow" },
+              { range: [5, 6], color: "yellow" },
+              { range: [6, 7], color: "lime" },
+              { range: [7, 8], color: "lime" },
+              { range: [8, 9], color: "green" },
+              { range: [9, 10], color: "green" }
             ],
           }  
         }
