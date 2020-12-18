@@ -172,7 +172,7 @@ function buildBarChart(sample) {
           var data = [bubble_trace];
     
           var bubble_layout = {
-            title: "OTU ID",
+            title: "Bacteria Culturs Per Sample",
             showlegend: false,
 
           };
