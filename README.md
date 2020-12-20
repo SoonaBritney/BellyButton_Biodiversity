@@ -67,10 +67,10 @@ Create a bubble chart that displays each sample: (Bacteria Culturs per Sample)
     - Add a navigation bar that allows you to select the bar or bubble chart on the page.
 - When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and the three charts should be working according to their requirements.
 - When a sample is selected, the dashboard should display the data in the panel and all three charts according to their requirements. 
-- [Completed Dashboard with 3 charts per seletion in the pulldpwn menu](https://github.com/SoonaBritney/BellyButton_Biodiversity/blob/main/Capture_dashboardAll.PNG)
-- ![Completed Dashboard with custom header ]()
+- ![Completed Dashboard with 3 charts per seletion in the pulldpwn menu](https://github.com/SoonaBritney/BellyButton_Biodiversity/blob/main/Capture_dashboardAll.PNG)
+- ![Completed Dashboard with custom header ](https://github.com/SoonaBritney/BellyButton_Biodiversity/blob/main/Capture_customlook.PNG)
 
 # Conclusion
-- Live Demo: https://soonabritney.github.io/BellyButton_Biodiversity/index.html
+- [Live Demo]: https://soonabritney.github.io/BellyButton_Biodiversity/index.html
 - Please click here to review the live demo.
 
