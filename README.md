@@ -3,11 +3,11 @@
 Project Overview
 In this module, we will use Plotly.js, a JavaScript data visualization library, to create an interactive data visualization for the web. The completed work will be displayed in a portfolio we created as a live demo web.
 
-Resources
+# Resources
 Data Source: index.html, samples.json, plots_challenge_dashboard.js
 Software: VS Code, Web browser, Command-line interface, GitHub
 
-Objectives
+# Objectives
 By the end of this module, we will be able to:
 
 - Create basic plots with Plotly, including bar charts, line charts, and pie charts.
@@ -19,7 +19,7 @@ By the end of this module, we will be able to:
 - How to use interactivity to enhance your visualizations.
 - Deploy an interactive chart to GitHub Pages.
 
-Summary
+# Summary
 - Challenge Overview
     - In this challenge, we have a partially completed dashboard, but need to finish it. We have a completed panel for demographic information and now need to visualize the bacterial data for each volunteer. Specifically, the volunteers should be able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, our volunteers will be able to identify whether that species is found in quantity in their navel.
 
@@ -65,7 +65,7 @@ Create a bubble chart that displays each sample: (Bacteria Culturs per Sample)
 - When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and the three charts should be working according to their requirements.
 - When a sample is selected, the dashboard should display the data in the panel and all three charts according to their requirements. 
 
-Conclusion
+# Conclusion
 - Live Demo: https://soonabritney.github.io/BellyButton_Biodiversity/index.html
 - Please click here to review the live demo.
 
