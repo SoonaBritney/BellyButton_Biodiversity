@@ -70,7 +70,8 @@ Create a bubble chart that displays each sample: (Bacteria Culturs per Sample)
 - ![Completed Dashboard with 3 charts per seletion in the pulldpwn menu](https://github.com/SoonaBritney/BellyButton_Biodiversity/blob/main/Capture_dashboardAll.PNG)
 - ![Completed Dashboard with custom header ](https://github.com/SoonaBritney/BellyButton_Biodiversity/blob/main/Capture_customlook.PNG)
 
+
 # Conclusion
-- [Live Demo]: https://soonabritney.github.io/BellyButton_Biodiversity/index.html
-- Please click here to review the live demo.
+## Live Demo: 
+- [Please click here to review the live demo](https://soonabritney.github.io/BellyButton_Biodiversity/index.html)
 
