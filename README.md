@@ -34,6 +34,7 @@ Create a bar chart of the top ten bacterial species in a volunteer’s navel: (T
 - Use JavaScript to select only the most populous species.
 - Create a bar chart to visualize the relative frequency of all the bacterial species found in a volunteer’s navel.
 - When an individual’s ID is selected, the top 10 bacterial species (OTUs) should be visualized with a bar chart. Create a horizontal bar chart to display the top 10 OTUs found - in that individual.
+- ![bar chart](https://github.com/SoonaBritney/BellyButton_Biodiversity/blob/main/Capture_barchart.PNG)
 
 - Use sample_values as the values for the bar chart.
 - Use otu_ids as the labels for the bar chart.
@@ -47,10 +48,12 @@ Create a bubble chart that displays each sample: (Bacteria Culturs per Sample)
 - The sample_values as the marker size.
 - The otu_ids as the marker colors.
 - The otu_labels as the hover-text values.
+- ![bubble chart](https://github.com/SoonaBritney/BellyButton_Biodiversity/blob/main/Capture_bubblechart.PNG)
 
 (3) Deliverable 3: Create a Gauge Chart
 - Create a guage chart that displays each sample: (Belly Button Washing Frequency <br> Scrubs per Wee)
 - Using your knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
+- ![Guage Chart](https://github.com/SoonaBritney/BellyButton_Biodiversity/blob/main/Capture_guagechart.PNG)
 
 (4) Deliverable 4: Customize the Dashboard
 - Customize your dashboard with three of the following:
@@ -64,6 +67,8 @@ Create a bubble chart that displays each sample: (Bacteria Culturs per Sample)
     - Add a navigation bar that allows you to select the bar or bubble chart on the page.
 - When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and the three charts should be working according to their requirements.
 - When a sample is selected, the dashboard should display the data in the panel and all three charts according to their requirements. 
+- [Completed Dashboard with 3 charts per seletion in the pulldpwn menu](https://github.com/SoonaBritney/BellyButton_Biodiversity/blob/main/Capture_dashboardAll.PNG)
+- ![Completed Dashboard with custom header ]()
 
 # Conclusion
 - Live Demo: https://soonabritney.github.io/BellyButton_Biodiversity/index.html
